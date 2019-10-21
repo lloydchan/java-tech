@@ -1,4 +1,4 @@
-package com.matrixport.tech.concurrent.semaphore;
+package concurrent.semaphore;
 // java program to demonstrate 
 // use of semaphores Locks 
 import java.util.concurrent.*; 

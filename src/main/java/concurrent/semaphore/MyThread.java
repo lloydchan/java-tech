@@ -1,4 +1,4 @@
-package com.matrixport.tech.concurrent.semaphore;
+package concurrent.semaphore;
 
 import java.util.concurrent.Semaphore;
 
